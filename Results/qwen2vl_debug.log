@@ -1,0 +1,65 @@
+[24-04-2026 13:58:03] Car_one__test_foto_001.jpg
+  RAW: ```json
+{
+  "color": {
+    "color": "серый",
+    "confidence": 80
+  },
+  "model": {
+    "brand": "Toyota",
+    "model": "Camry",
+    "confidence": 90
+  },
+  "plate": {
+    "plate": "С853АР792",
+    "confidence": 95
+  }
+}
+```
+
+[24-04-2026 14:19:37] Car_one__test_foto_001.jpg
+  RAW: ```json
+{
+  "color": {
+    "color": "серый",
+    "confidence": 80
+  },
+  "model": {
+    "brand": "Toyota",
+    "model": "Camry",
+    "confidence": 90
+  },
+  "plate": {
+    "plate": "С853АР792",
+    "confidence": 95
+  }
+}
+```
+
+[24-04-2026 14:25:14] Car_one__test_foto_002.jpg
+  RAW: ```json
+{
+  "color": "черный",
+  "model": "BMW",
+  "plate": "А123ВС77"
+}
+```
+
+[24-04-2026 14:29:58] Car_one__test_foto_003.jpg
+  RAW: ```json
+{
+  "color": "серый",
+  "model": "SUV",
+  "plate": "А123ВС77"
+}
+```
+
+[24-04-2026 14:34:43] Car_one__test_foto_004.jpg
+  RAW: ```json
+{
+  "color": "белый",
+  "model": "Renault",
+  "plate": "A123ВС77"
+}
+```
+
