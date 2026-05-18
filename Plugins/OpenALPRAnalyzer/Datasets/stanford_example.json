@@ -1,0 +1,18 @@
+{
+  "source": "Stanford Cars Dataset - Minimal Example",
+  "total_classes": 10,
+  "years": "1997-2012",
+  "note": "Это пример - скачайте полный датасет из http://ai.stanford.edu/~jkrause/cars/car_dataset.html (196 классов)",
+  "classes": [
+    "2012 Tesla Model S Sedan",
+    "2011 Volkswagen Beetle Hatchback",
+    "2012 Volvo C30 Hatchback",
+    "2012 Volvo XC90 SUV",
+    "2009 Volvo S60 Sedan",
+    "2006 Volkswagen GolfMkv",
+    "1993 Volvo 240 Sedan",
+    "2012 Volkswagen Beetle Convertible",
+    "2007 Volkswagen Jetta Sedan",
+    "2012 Volvo S60 Cross Country"
+  ]
+}

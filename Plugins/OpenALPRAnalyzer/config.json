@@ -1,0 +1,7 @@
+{
+    "region": "ru",
+    "clip_model": "openai/clip-vit-base-patch32",
+    "dataset": "default",
+    "compcars_path": "",
+    "stanford_path": ""
+}
