@@ -94,6 +94,16 @@ MODELS: list[ModelSpec] = [
         required=False,
     ),
     ModelSpec(
+        name="Qwen2.5-VL-3B-Instruct",
+        description="Языковая VL-модель (transformers) — Qwen2VLAnalyzer / QwenVehicleAnalyzer",
+        path=_p("Models", "Qwen2.5-VL-3B-Instruct", "config.json"),
+        size_hint="~7 ГБ",
+        download_type="hf_snapshot",
+        hf_repo="Qwen/Qwen2.5-VL-3B-Instruct",
+        hf_local_dir=_p("Models", "Qwen2.5-VL-3B-Instruct"),
+        required=False,
+    ),
+    ModelSpec(
         name="Qwen3.5-4B-AWQ",
         description="Квантизованная AWQ-модель — QwenVehicleAnalyzer (требует autoawq + CUDA)",
         path=_p("Models", "Qwen3.5-4B-AWQ", "config.json"),
